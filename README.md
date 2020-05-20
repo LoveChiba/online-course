@@ -10,7 +10,7 @@
 
 ## 系统ER图
 
-![image-20200520175506087](C:\Users\huang\AppData\Roaming\Typora\typora-user-images\image-20200520175506087.png)
+![](https://gitee.com/blankjee/pic-bed/raw/master/images/20200520181118.png)
 
 ## 项目用到的技术
 
