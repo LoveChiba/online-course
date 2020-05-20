@@ -99,13 +99,13 @@ jdbc.password=填写你的数据库密码
 
 安装包已附在压缩包中，解压后，双击`redis-server.exe`运行。
 
-![image-20200313104537164](C:\Users\huang\AppData\Roaming\Typora\typora-user-images\image-20200313104537164.png)
+![](https://gitee.com/blankjee/pic-bed/raw/master/images/20200520182521.png)
 
 出现这个页面成功。
 
 ### 5.运行项目
 
-![image-20200312135130422](C:\Users\huang\AppData\Roaming\Typora\typora-user-images\image-20200312135130422.png)
+![](https://gitee.com/blankjee/pic-bed/raw/master/images/20200520182609.png)
 
 ### 6.项目访问
 
